@@ -13,4 +13,8 @@ header {
 
 section {
     background: rgb(1, 238, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }

@@ -2,6 +2,7 @@ body {
     color: rgb(253, 0, 0);
     background: rgb(0, 0, 0);
     margin: 0px;
+    font-family: "Londrina Sketch", sans-serif;
 }
 
 header {
@@ -17,4 +18,8 @@ section {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }

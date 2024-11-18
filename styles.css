@@ -2,10 +2,7 @@ body {
     color: rgb(253, 0, 0);
     background: rgb(0, 0, 0);
     margin: 0px;
-    font-family: "Caveat", serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
+    font-family: "Shadows Into Light", cursive;
 }
 
 header {

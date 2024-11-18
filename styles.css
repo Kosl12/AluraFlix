@@ -1,15 +1,15 @@
 body {
-    color: rgb(253, 0, 0);
+    color: rgb(0, 0, 0);
     background: rgb(0, 0, 0);
     margin: 0px;
     font-family: "Shadows Into Light", cursive;
 }
 
 header {
-    border-bottom: solid 2px rgb(252, 248, 0);
+    border-bottom: solid 2px rgb(252, 113, 0);
     padding: 20px;
     font-size: 32px;
-    color: rgb(8, 252, 0);
+    color: rgb(255, 255, 255);
 }
 
 .chamada {
